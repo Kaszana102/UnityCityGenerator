@@ -356,7 +356,6 @@ public class CityGenerator : EditorWindow
 
 
         //then horizontal roads
-        //first vertical roads
         for (int i = 0; i < citySize; i++)
         {
             for (int j = 0; j < citySize+1; j++)
